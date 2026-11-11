@@ -4,7 +4,7 @@ easySQL untersucht und optimiert Microsoft SQL Server Express auf dem Server sel
 
 Hier liegt nur das fertige Programm, kein Quelltext.
 
-**Aktuelle Version: 1.0.0**
+**Aktuelle Version: 1.1.0**
 
 ## Immer die neueste Version
 
@@ -16,7 +16,7 @@ Fester Link, der immer auf die aktuelle Version zeigt (ohne Anmeldung):
 https://github.com/dailytrap/easySQL-download/releases/latest/download/easySQL.exe
 ```
 
-Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySQL-1.0.0.exe`) unter [Releases](https://github.com/dailytrap/easySQL-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
+Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySQL-1.1.0.exe`) unter [Releases](https://github.com/dailytrap/easySQL-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
 
 ## Start
 
