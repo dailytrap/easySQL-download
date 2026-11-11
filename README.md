@@ -4,8 +4,23 @@ easySQL untersucht und optimiert Microsoft SQL Server Express auf dem Server sel
 
 Hier liegt nur das fertige Programm, kein Quelltext.
 
-Es ist noch keine Version veröffentlicht. Sobald es eine gibt, lädt dieser feste Link immer die neueste:
+**Aktuelle Version: 1.0.0**
+
+## Immer die neueste Version
+
+**[easySQL.exe herunterladen](https://github.com/dailytrap/easySQL-download/releases/latest/download/easySQL.exe)**
+
+Fester Link, der immer auf die aktuelle Version zeigt (ohne Anmeldung):
 
 ```
 https://github.com/dailytrap/easySQL-download/releases/latest/download/easySQL.exe
 ```
+
+Dieselbe Datei gibt es auch mit Versionsnummer im Namen (`easySQL-1.0.0.exe`) unter [Releases](https://github.com/dailytrap/easySQL-download/releases/latest). Ältere Versionen werden hier nicht aufbewahrt.
+
+## Start
+
+- Eine einzelne Datei, keine Installation.
+- Direkt auf dem SQL-Server starten. Startet mit Adminrechten (Windows fragt nach).
+- Benötigt Windows 10/11 (64 Bit) mit WebView2, bei Windows 11 vorhanden.
+- Am besten außerhalb der Arbeitszeit: Während der Optimierung sind Tabellen zeitweise gesperrt.
